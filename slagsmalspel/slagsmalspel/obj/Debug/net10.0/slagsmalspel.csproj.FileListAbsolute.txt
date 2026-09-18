@@ -1,0 +1,14 @@
+C:\Users\elvira.karlssonbren\Documents\Programmering1\Slagsmalspel\slagsmalspel\slagsmalspel\bin\Debug\net10.0\slagsmalspel.exe
+C:\Users\elvira.karlssonbren\Documents\Programmering1\Slagsmalspel\slagsmalspel\slagsmalspel\bin\Debug\net10.0\slagsmalspel.deps.json
+C:\Users\elvira.karlssonbren\Documents\Programmering1\Slagsmalspel\slagsmalspel\slagsmalspel\bin\Debug\net10.0\slagsmalspel.runtimeconfig.json
+C:\Users\elvira.karlssonbren\Documents\Programmering1\Slagsmalspel\slagsmalspel\slagsmalspel\bin\Debug\net10.0\slagsmalspel.dll
+C:\Users\elvira.karlssonbren\Documents\Programmering1\Slagsmalspel\slagsmalspel\slagsmalspel\bin\Debug\net10.0\slagsmalspel.pdb
+C:\Users\elvira.karlssonbren\Documents\Programmering1\Slagsmalspel\slagsmalspel\slagsmalspel\obj\Debug\net10.0\slagsmalspel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvira.karlssonbren\Documents\Programmering1\Slagsmalspel\slagsmalspel\slagsmalspel\obj\Debug\net10.0\slagsmalspel.AssemblyInfoInputs.cache
+C:\Users\elvira.karlssonbren\Documents\Programmering1\Slagsmalspel\slagsmalspel\slagsmalspel\obj\Debug\net10.0\slagsmalspel.AssemblyInfo.cs
+C:\Users\elvira.karlssonbren\Documents\Programmering1\Slagsmalspel\slagsmalspel\slagsmalspel\obj\Debug\net10.0\slagsmalspel.csproj.CoreCompileInputs.cache
+C:\Users\elvira.karlssonbren\Documents\Programmering1\Slagsmalspel\slagsmalspel\slagsmalspel\obj\Debug\net10.0\slagsmalspel.dll
+C:\Users\elvira.karlssonbren\Documents\Programmering1\Slagsmalspel\slagsmalspel\slagsmalspel\obj\Debug\net10.0\refint\slagsmalspel.dll
+C:\Users\elvira.karlssonbren\Documents\Programmering1\Slagsmalspel\slagsmalspel\slagsmalspel\obj\Debug\net10.0\slagsmalspel.pdb
+C:\Users\elvira.karlssonbren\Documents\Programmering1\Slagsmalspel\slagsmalspel\slagsmalspel\obj\Debug\net10.0\slagsmalspel.genruntimeconfig.cache
+C:\Users\elvira.karlssonbren\Documents\Programmering1\Slagsmalspel\slagsmalspel\slagsmalspel\obj\Debug\net10.0\ref\slagsmalspel.dll
