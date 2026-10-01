@@ -12,3 +12,4 @@ C:\Users\elvira.karlssonbren\Documents\Programmering1\Slagsmalspel\slagsmalspel\
 C:\Users\elvira.karlssonbren\Documents\Programmering1\Slagsmalspel\slagsmalspel\slagsmalspel\obj\Debug\net10.0\slagsmalspel.pdb
 C:\Users\elvira.karlssonbren\Documents\Programmering1\Slagsmalspel\slagsmalspel\slagsmalspel\obj\Debug\net10.0\slagsmalspel.genruntimeconfig.cache
 C:\Users\elvira.karlssonbren\Documents\Programmering1\Slagsmalspel\slagsmalspel\slagsmalspel\obj\Debug\net10.0\ref\slagsmalspel.dll
+C:\Users\elvira.karlssonbren\Documents\Programmering1\Slagsmalspel\slagsmalspel\slagsmalspel\obj\Debug\net10.0\slagsmalspel.sourcelink.json
